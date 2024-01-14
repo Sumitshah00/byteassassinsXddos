@@ -1,7 +1,6 @@
 # byteassassinsXddos
   
 
-
 # DDoS Attack Meaning
 DDoS Attack means "Distributed Denial-of-Service (DDoS) Attack" and it is a cybercrime in which the attacker floods a server with internet traffic to prevent users from accessing connected online services and sites.
 
@@ -54,3 +53,8 @@ step 4 >  ./byteassassinsXddos https://suratschool.metasofsda.in/ 5000 get 1200 
 
 
 
+########################################
+# Educational purpose only             #
+########################################
+# I'm not responsible for your actions #
+########################################
