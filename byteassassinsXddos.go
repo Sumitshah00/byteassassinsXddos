@@ -1,6 +1,5 @@
 /*
 Coded by byteassassins
-Please fking code ur script by ur self
 */
 package main
 
@@ -210,7 +209,7 @@ func flood() {
 
 func main() {
 	fmt.Println("                                 ----------------------                                           ")
-	fmt.Println("                  _______________|    @byteassassins    |_______________                           ")
+	fmt.Println("                 _______________|    @byteassassins    |_______________                           ")
 	fmt.Println("                |                                                      |                          ")
 	fmt.Println("                                                                                                  ")
 	fmt.Println("       #    #    ###     #####                                 ######                             ")
@@ -220,7 +219,8 @@ func main() {
 	fmt.Println(" #     # #######  #           # #    # #####  #      #         #   #   ###### #    #                ")
 	fmt.Println(" #     # #     #  #     #     # #    # #   #  #      #         #    #  #    # #    #                ")
 	fmt.Println("  #####  #     # ###     #####  #    # #    # ###### ######    #     # #    # #    #                 ")
-	fmt.Println("                                                                                                     ")
+	fmt.Println("                                                                                                      ")
+	fmt.Println("	                                                                                                   ")
 	fmt.Println("                  |_______________|  @byteassassins    |_______________|  ")
 	fmt.Println("                                   --------------------                         ")
 	if len(os.Args) != 6 {
