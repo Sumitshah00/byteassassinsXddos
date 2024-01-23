@@ -38,11 +38,11 @@ step 3 >  pkg install golang
 
 
 
-step 3 >   go build byteassassinsXddos.go
+step 4 >   go build byteassassinsXddos.go
 
 
 
-step 4 >  ./byteassassinsXddos https://example.com 5000 get 1200 nil
+step 5 >  ./byteassassinsXddos https://example.com 5000 get 1200 nil
 
 
 
