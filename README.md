@@ -46,14 +46,6 @@ step 5 >  ./byteassassinsXddos https://example.com 5000 get 1200 nil
 
 
 
-
-
-
-
-
-
-![image](https://github.com/Sumitshah00/byteassassinsXddos/assets/149252561/36721106-5581-405f-bef4-f71420f8c82a)
-
 ![image](https://github.com/Sumitshah00/byteassassinsXddos/assets/149252561/2bbf01b7-f1c9-4851-8637-8a894d2042a2)
 
 
